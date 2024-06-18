@@ -9,18 +9,7 @@ header {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
-}
-
-.heading {
-  font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
-  font-size: 55px;
-  font-weight: 600;
-  font-style: normal;
-  color: #ff8000;
-  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.4);
-  margin-left: 20px;
-  margin-right: 20px;
+  max-width: 100%;
 }
 
 .logo {
