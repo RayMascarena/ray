@@ -26,19 +26,6 @@ header {
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
-@media (max-width: 500px) {
-  .logo {
-    width: 182px;
-    margin-top: 8px;
-  }
-
-  .textCursor {
-    width: 14px;
-    height: 30px;
-    margin-top: 4px;
-  }
-}
-
 .leftsection {
   display: flex;
   align-items: center;
@@ -68,4 +55,23 @@ header {
   margin-right: 24px;
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.2));
   pointer-events: none;
+}
+
+@media (max-width: 500px) {
+  
+  .logo {
+    width: 182px;
+    margin-top: 8px;
+  }
+
+  .textCursor {
+    width: 14px;
+    height: 30px;
+    margin-top: 4px;
+  }
+
+  .hamburger {
+    height: 23px;
+    margin-right: 12px;
+  }
 }
