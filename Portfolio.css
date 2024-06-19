@@ -151,7 +151,7 @@ input:checked + label .description {
 }
 
 @media (max-width: 500px) {
-  .sectionContaioner {
+  .sectionContaianer {
     align-items: flex-start;
     justify-content: flex-start;
   }
