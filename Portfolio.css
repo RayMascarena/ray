@@ -152,8 +152,8 @@ input:checked + label .description {
 
 @media (max-width: 500px) {
   .sectionContaioner {
-    align-items: ;
-    justify-content: ;
+    align-items: flex-start;
+    justify-content: flex-start;
   }
   
   .portrait {
