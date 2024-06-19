@@ -29,11 +29,13 @@ header {
 @media (max-width: 500px) {
   .logo {
     width: 182px;
+    margin-top: 8px;
   }
 
   .textCursor {
     width: 30px;
     height: 14px;
+    margin-top: 4px;
 }
 
 .leftsection {
