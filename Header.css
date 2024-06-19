@@ -60,13 +60,13 @@ header {
 @media (max-width: 500px) {
   
   .logo {
-    width: 250px;
+    width: 225px;
     margin-top: 8px;
   }
 
   .textCursor {
-    width: 21px;
-    height: 45px;
+    width: 19px;
+    height: 40px;
     margin-top: 4px;
   }
 
