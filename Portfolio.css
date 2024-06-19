@@ -167,7 +167,7 @@ input:checked + label .description {
   }
 
   .aboutmeSection {
-    max-width: 200px;
+    max-width: 400px;
   }
 
   .sectionTitle {
