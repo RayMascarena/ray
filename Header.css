@@ -28,12 +28,12 @@ header {
 
 @media (max-width: 500px) {
   .logo {
-    width: 50%;
+    width: 182px;
   }
 
   .textCursor {
-    width: 50%;
-    height: 50%;
+    width: 30px;
+    height: 14px;
 }
 
 .leftsection {
