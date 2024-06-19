@@ -11,7 +11,7 @@
 .dropdown-content {
   display: none;
   background-color: transparent;
-  width: 200px;
+  width: 250px;
   transition: cubic-bezier(0.895, 0.03, 0.685, 0.22);
   margin-top: 23px;
   margin-right: 7px;
@@ -39,7 +39,7 @@
 
 @media (max-width: 500px) {
   .dropdown-content {
-    width: 100px;
+    width: 75px;
   }
 
   .dropdown-content a {
