@@ -36,3 +36,9 @@
   box-shadow: 2px 4px 4px 0px rgba(0,0,0,0.2);
   margin: 5px 5px;
 }
+
+@media (max-width: 500px) {
+  .dropdown-content {
+    width: 100px;
+  }
+}
