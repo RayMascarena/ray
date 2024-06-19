@@ -152,10 +152,14 @@ input:checked + label .description {
 
 @media (max-width: 500px) {
   .portrait {
-    width: 100px;
+    width: 200px;
   }
 
   .aboutmeSection {
     max-width: 200px;
+  }
+
+  .sectionTitle {
+    font-size: 30px;
   }
 }
