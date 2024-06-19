@@ -154,7 +154,8 @@ input:checked + label .description {
   .sectionContainer {
     align-items: ;
     justify-content: ;
-    margin: 10px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   .portrait {
