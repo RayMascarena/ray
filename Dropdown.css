@@ -11,7 +11,7 @@
 .dropdown-content {
   display: none;
   background-color: transparent;
-  min-width: 160px;
+  width: 160px;
   transition: cubic-bezier(0.895, 0.03, 0.685, 0.22);
   margin-top: 23px;
   margin-right: 7px;
