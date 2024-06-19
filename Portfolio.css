@@ -150,6 +150,10 @@ input:checked + label .description {
   background-image: url('images/IMG4.jpg');
 }
 
+.fullWidth {
+  width: 400px;
+}
+
 @media (max-width: 500px) {
   .sectionContainer {
     align-items: flex-start;
