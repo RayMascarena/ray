@@ -62,7 +62,6 @@ header {
   .logo {
     width: 250px;
     margin-top: 8px;
-    margin-right: 12px;
   }
 
   .textCursor {
@@ -73,6 +72,6 @@ header {
 
   .hamburger {
     height: 40px;
-    margin-right: 24px;
+    margin-right: 12px;
   }
 }
