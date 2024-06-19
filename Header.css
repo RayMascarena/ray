@@ -60,18 +60,19 @@ header {
 @media (max-width: 500px) {
   
   .logo {
-    width: 182px;
+    width: 250px;
     margin-top: 8px;
+    margin-right: 12px;
   }
 
   .textCursor {
-    width: 14px;
-    height: 30px;
+    width: 21px;
+    height: 45px;
     margin-top: 4px;
   }
 
   .hamburger {
     height: 40px;
-    margin-right: 12px;
+    margin-right: 24px;
   }
 }
