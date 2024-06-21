@@ -154,6 +154,16 @@ input:checked + label .description {
   background-image: url('images/IMG4.jpg');
 }
 
+.mediaIconContainer {
+  display: inline-block;
+}
+
+.mediaIcon {
+  width: 55px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 @media (max-width: 500px) {
   .sectionContainer {
     flex-direction: column;
