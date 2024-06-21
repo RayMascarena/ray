@@ -14,7 +14,9 @@ header {
 
 .logo {
   width: 365px;
-  margin-top: 15px;
+  margin-top: 17px;
+  margin-left: 12px;
+  margin-right: 12px;
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.2));
 }
 
@@ -60,7 +62,9 @@ header {
 @media (max-width: 500px) { 
   .logo {
     width: 225px;
-    margin-top: 8px;
+    margin-top: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
   }
 
   .textCursor {
