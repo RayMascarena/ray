@@ -40,7 +40,8 @@ body {
   margin-left: 5px;
 }
 
-.projectsSection {
+.projectsSection,
+.contactSection {
   display: flex;
   align-items: center;
   justify-content: center;
