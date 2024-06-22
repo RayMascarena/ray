@@ -155,8 +155,8 @@ input:checked + label .description {
   background-image: url('images/IMG4.jpg');
 }
 
-.mediaIconContainer {
-  display: inline-block;
+.mediaLink {
+  color: transparent;
 }
 
 .mediaIcon {
