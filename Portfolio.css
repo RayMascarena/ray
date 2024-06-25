@@ -5,6 +5,10 @@
   font-family: "Teko", serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #e4e2dd;
 }
